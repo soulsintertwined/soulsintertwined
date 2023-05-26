@@ -1,6 +1,5 @@
 # doggo
-hi, im doggo. im a self taught cybersecurity focused dev currently in training as a signals itelligence analyst for the military. most of my projects are for fun and i keep to myself, but i might as well make some api wrappers people will probably never use. (im too lazy to finish this rn and im tired asf so imma sleep cya)
-## languages & tools
+hi, im doggo. im a self taught cybersecurity focused dev currently in training as a signals intelligence analyst for the military. most of my projects are for fun and i keep to myself, but i might as well make some api wrappers people will probably never use.
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
