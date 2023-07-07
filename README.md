@@ -23,12 +23,11 @@ hi, im doggo. im a self taught cybersecurity dev currently getting certified for
 <img align="left" alt="Sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="RaspberryPi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
-<br>
+<img align="left" alt="Premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /> <br>
 
 ## donate
 
 
-<p>**all donations are appreciated**<br>
-cashapp: $petownr<br>
-monero *(preferred)*:<br> 48aHR2rAGgEcQGhtQhJLtkTKSh6YqHHAwTcmFHVsgv1SMw8zxedzhey2G31p5bdeLzYybFt4vyJEz6No9UP4SMenHrnpvMi<p/>
+**all donations are appreciated** <br>
+cashapp: $petownr <br>
+monero *(preferred)*: <br> 48aHR2rAGgEcQGhtQhJLtkTKSh6YqHHAwTcmFHVsgv1SMw8zxedzhey2G31p5bdeLzYybFt4vyJEz6No9UP4SMenHrnpvMi
