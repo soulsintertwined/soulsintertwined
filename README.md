@@ -1,9 +1,9 @@
 # doggo
-
+----
 ## about me
 
 hi, im doggo. im a self taught cybersecurity dev currently getting certified for my years of experience. most of my projects are for fun and i keep to myself, however some i will open source so others will hopefully find a use for them and improve any flaws if any.
-
+----
 ## languages & tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,3 +25,9 @@ hi, im doggo. im a self taught cybersecurity dev currently getting certified for
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
 <br />
+----
+## donate
+
+**all donations are appreciated**
+cashapp: $petownr
+monero *(preferred)*: 48aHR2rAGgEcQGhtQhJLtkTKSh6YqHHAwTcmFHVsgv1SMw8zxedzhey2G31p5bdeLzYybFt4vyJEz6No9UP4SMenHrnpvMi
