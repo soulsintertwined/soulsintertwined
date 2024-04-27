@@ -32,7 +32,7 @@ hi, im doggo. im a self taught cybersecurity dev currently getting certified for
 <img align="left" alt="GrapheneOS" width="30px" style="padding-right:10px;" src="https://grapheneos.org/780febcc.mask-icon.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" alt="Premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /> 
-<br />
+<br>
 
 ## my setup
 
