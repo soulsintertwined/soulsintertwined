@@ -40,4 +40,4 @@ hi, im doggo. im a self taught cybersecurity dev currently getting certified for
 
 **all donations are appreciated** <br>
 cashapp: $petownr <br>
-monero *(preferred)*: <br> 48aHR2rAGgEcQGhtQhJLtkTKSh6YqHHAwTcmFHVsgv1SMw8zxedzhey2G31p5bdeLzYybFt4vyJEz6No9UP4SMenHrnpvMi
+monero *(preferred)*: <br> 49BiwuQMVuNCSdMa5yEqSDgZifbsPbJqTjTnmLd2gyASN6A5KNEaryTFsStZhAdE6hVm8jVed8ccW3EFMFaoCfQ6BB27yUT
