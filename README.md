@@ -36,6 +36,25 @@ hi, im doggo. im a self taught cybersecurity dev currently getting certified for
 
 ## my setup
 
+Primary Desktop:
+
+OS: Ubuntu 23.10 <br>
+CPU: AMD Ryzen 5 3600 <br>
+GPU: Sapphire PULSE Radeon RX580 8GB <br>
+Motherboard: ASRock x570 Phantom Gaming 4 <br>
+RAM: G.Skill Ripjaws V 32 GB DDR4-3600 <br>
+NVME: Gigabyte AORUS Gen4 7300 1 TB <br>
+PSU: Montech Century 850W Gold Full-Modular <br>
+Case: Phanteks XT Pro Ultra <br>
+Microphone: Audio-Technica AT2020 XLR <br>
+Audio Interface: M-Audio M-Track Solo <br>
+look at my stars!!!
+
+Secondary Laptop:
+
+Thinkpad T480S <br>
+OS: Arch 6.8.2
+
 ## donate
 
 **all donations are appreciated** <br>
