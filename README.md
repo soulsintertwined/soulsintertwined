@@ -1,16 +1,16 @@
 # doggo
 
-## about me
+## About Me
 
 hi, im doggo. im a self taught cybersecurity dev currently getting certified for my years of experience. most of my projects are for fun and i keep to myself, however some i will open source so others will hopefully find a use for them and improve any flaws if any.
 
-## certifications
+## Certifications
 
 [CompTIA Security+](https://www.comptia.org/certifications/security)
 
 [Google Cybersecurity](https://grow.google/certificates/cybersecurity/)
 
-## languages & tools
+## Languages & Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -20,11 +20,11 @@ hi, im doggo. im a self taught cybersecurity dev currently getting certified for
 <img align="left" alt="Svelte" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 <img align="left" alt="NGINX" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Arch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="Debian" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Yarn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+<img align="left" alt="PNPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="RaspberryPi" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
@@ -34,11 +34,13 @@ hi, im doggo. im a self taught cybersecurity dev currently getting certified for
 <img align="left" alt="Premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" /> 
 <br>
 
-## my setup
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulsintertwined&theme=tokyonight)
 
-Primary Desktop:
+## My Setup
 
-OS: Ubuntu 23.10 <br>
+### Primary Desktop:
+
+OS: Arch 6.11.7 <br>
 CPU: AMD Ryzen 5 3600 <br>
 GPU: Sapphire PULSE Radeon RX580 8GB <br>
 Motherboard: ASRock x570 Phantom Gaming 4 <br>
@@ -50,12 +52,17 @@ Microphone: Audio-Technica AT2020 XLR <br>
 Audio Interface: M-Audio M-Track Solo <br>
 look at my stars!!!
 
-Secondary Laptop:
+### Secondary Laptop:
 
 Thinkpad T480S <br>
 OS: Arch 6.8.2
 
-## donate
+### Mobile Device: 
+
+Google Pixel 7 Pro <br>
+OS: Grapheneos v2024.11.7
+
+## Donate
 
 **all donations are appreciated** <br>
 cashapp: $petownr <br>
